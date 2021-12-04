@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://pbs.twimg.com/media/ELpuX1vXkAEnwcN?format=jpg&name=medium);
+}
+
+.wrapper {
+    color: white;
+    height: 300px;
+    margin: 10px;
+    background-color: blue;
+    border-style: inset;
+    border-width: 5px;
+    border-color: white 
+}
+
+h1 {
+    text-align: center;
+}
+
+#lorem {
+ margin: 10px;
+ font-family: fantasy;
+}
